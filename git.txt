@@ -1,0 +1,40 @@
+1>  create a new file 
+
+2>   write a code
+
+3>   go to the cmd of this file 
+
+4>   git init
+
+5>   git status 
+
+6>  git commit -m""
+ 
+7>  git repository   only for the first time
+
+8> git push -u origin master/main/datasem5
+  
+
+Branching
+
+1> git branch
+
+2> git branch (new branch name)
+
+3> git status
+
+4> git checkout (branch name)
+
+5> git branch
+
+6> git status
+ 
+7> git add .
+
+8> git commit -m""
+
+9> git push -u origin (branch name)
+
+10> git merge animation
+
+  
